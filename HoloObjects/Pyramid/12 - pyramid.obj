@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+mtllib 12 - pyramid.obj.mtl
+
+# 5 vertex positions
+v  -0.0122465 -0.0122579 0.0254
+v  -7.99361e-18 0.0131421 0.0127
+v  -0.0122465 -0.0122579 0
+v  0.0131535 -0.0122579 0
+v  0.0131535 -0.0122579 0.0254
+
+# 0 UV coordinates
+
+# 5 vertex normals
+vn -0.900767 0.434303 0
+vn -0 -1 -0
+vn 0.887996 0.459851 0
+vn 0 0.447214 0.894427
+vn 0 0.447214 -0.894427
+
+# Mesh '$ColladaAutoName$_0_ID2' with 6 faces
+g $ColladaAutoName$_0_ID2
+usemtl ID9
+f  1//1 2//1 3//1
+f  4//2 5//2 1//2
+f  1//2 3//2 4//2
+f  2//3 5//3 4//3
+f  2//4 1//4 5//4
+f  2//5 4//5 3//5
+
